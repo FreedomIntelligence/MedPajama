@@ -3,7 +3,7 @@
 MedPajama is an ambitious initiative to build one of the largest, most reliable, and clinically credible medical corpora to support the development of next-generation medical AI systems. In a domain where accuracy, interpretability, and trust are paramount, high-quality data is the foundation.
 
 <p align="center">
-<img src="./assets/icon.png" alt="logo" width="170" class="center"/><br>
+<img src="./assets/icon.jpg" alt="logo" width="170" class="center"/><br>
 Logo for MedPajama designed with ChatGPT-4o
 </p>
 
